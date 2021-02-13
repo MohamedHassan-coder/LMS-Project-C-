@@ -1,0 +1,50 @@
+#IncludeRegexLine: ^[ 	]*[#%][ 	]*(include|import)[ 	]*[<"]([^">]+)([">])
+
+#IncludeRegexScan: ^.*$
+
+#IncludeRegexComplain: ^$
+
+#IncludeRegexTransform: 
+
+M:/C++ Projects/LMS/LMS.cpp
+LMS.h
+M:/C++ Projects/LMS/LMS.h
+string
+-
+vector
+-
+fstream
+-
+Student.h
+M:/C++ Projects/LMS/Student.h
+
+M:/C++ Projects/LMS/LMS.h
+string
+-
+iostream
+-
+vector
+-
+Student.h
+M:/C++ Projects/LMS/Student.h
+math.h
+-
+
+M:/C++ Projects/LMS/Student.cpp
+fstream
+-
+student.h
+M:/C++ Projects/LMS/Student.h
+LMS.h
+M:/C++ Projects/LMS/LMS.h
+sstream
+-
+
+M:/C++ Projects/LMS/Student.h
+string
+-
+iostream
+-
+vector
+-
+
